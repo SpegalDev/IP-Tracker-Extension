@@ -3,4 +3,6 @@ Tracks your IP address and notifies you if it changes. Helpful for those using a
 
 -----
 
-If you find this exension useful, consider [buying me a coffee ☕](https://out.spegal.dev/coffee)
+If you find this exension useful, consider buying me a coffee or two.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://out.spegal.dev/coffee/github)
